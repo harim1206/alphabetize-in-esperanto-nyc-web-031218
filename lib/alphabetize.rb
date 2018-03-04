@@ -21,6 +21,7 @@ def alphabetize(arr)
 
     }
   }
+  puts arr
   #binding.pry
 
 end

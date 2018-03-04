@@ -12,9 +12,9 @@ m -> "16"
 [16,5,4,6]
 =end
 def esperanto
-  
+  esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 end
-esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+
 
 
 def alphabetize(arr)

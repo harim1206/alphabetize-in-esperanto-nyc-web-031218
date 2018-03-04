@@ -21,7 +21,7 @@ def alphabetize(arr)
 
     }
   }
-  binding.pry
+  #binding.pry
 
 end
 

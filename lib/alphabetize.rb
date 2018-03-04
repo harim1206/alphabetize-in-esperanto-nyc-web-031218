@@ -13,7 +13,7 @@ def alphabetize(arr)
   # code here
   #arr.sort_by{ |item| }
 
-  arr.sort_by{ |string|
+  x = arr.sort_by{ |string|
 
     string.split("").map{ |char|
 

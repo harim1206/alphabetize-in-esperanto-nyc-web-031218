@@ -18,17 +18,15 @@ def alphabetize(arr)
 
   #arr.sort_by{ |item| }
 
-  arr.each{ |string|
+  index_array = arr.each{ |string|
 
     char_array = string.split("")
 
-    index_array = char_array.map{ |char|
+    = char_array.map{ |char|
 
       char = esperanto.index(char)
 
     }
-
-    return index_array
     binding.pry
 
 

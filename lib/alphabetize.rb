@@ -1,7 +1,6 @@
 require "pry"
 
-
-
+=begin
 arr.sort_by { |a| a.split("").map{ |char| ESPERANTO_ALPHABET.index(char) } }
 
 
@@ -11,7 +10,7 @@ m -> "16"
 [b,o,n,a,n]
 [3,4,3,6]
 [16,5,4,6]
-
+=end
 
 def alphabetize(arr)
   # code here
@@ -30,11 +29,6 @@ def alphabetize(arr)
 
 
   }
-
-
-
-
-  turn each string to an array of integers of esperanto indices
 
 end
 

@@ -11,10 +11,11 @@ m -> "16"
 [3,4,3,6]
 [16,5,4,6]
 =end
+esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+
 
 def alphabetize(arr)
   # code here
-  esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
   #arr.sort_by{ |item| }
 

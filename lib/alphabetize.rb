@@ -28,9 +28,6 @@ def alphabetize(arr)
       char = esperanto.index(char)
 
     }
-    binding.pry
-
-
   }
 
 

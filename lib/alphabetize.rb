@@ -18,7 +18,7 @@ def alphabetize(arr)
 
   #arr.sort_by{ |item| }
 
-  index_array = arr.each{ |string|
+  index_array = arr.map{ |string|
 
     char_array = string.split("")
 

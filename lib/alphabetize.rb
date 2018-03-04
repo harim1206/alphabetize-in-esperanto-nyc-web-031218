@@ -28,6 +28,12 @@ def alphabetize(arr)
 
     }
   }
+
+  arr.sort_by{ |index|
+
+    index_array
+    
+  }
   binding.pry
 
 

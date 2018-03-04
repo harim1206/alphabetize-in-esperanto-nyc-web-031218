@@ -21,11 +21,11 @@ def alphabetize(arr)
     char_array = string.split("")
 
     char_array.map{ |char|
-      binding.pry
 
       char = esperanto.index(char)
 
     }
+    binding.pry
 
 
   }

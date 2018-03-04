@@ -11,6 +11,9 @@ m -> "16"
 [3,4,3,6]
 [16,5,4,6]
 =end
+def esperanto
+  
+end
 esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
 

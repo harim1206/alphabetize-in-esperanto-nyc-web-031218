@@ -22,7 +22,7 @@ def alphabetize(arr)
 
     char_array = string.split("")
 
-    char_array.map{ |char|
+    index_array = char_array.map{ |char|
 
       char = esperanto.index(char)
 

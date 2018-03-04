@@ -23,9 +23,7 @@ def alphabetize(arr)
 
   arr.sort_by{ |string|
 
-    char_array = string.split("")
-
-    char_array.map{ |char|
+    string.split("").map{ |char|
 
       char = esperanto.index(char)
 

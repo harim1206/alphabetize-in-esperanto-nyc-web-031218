@@ -27,6 +27,8 @@ def alphabetize(arr)
       char = esperanto.index(char)
 
     }
+
+    return index_array
     binding.pry
 
 

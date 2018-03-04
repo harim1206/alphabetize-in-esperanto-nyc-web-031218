@@ -16,6 +16,8 @@ def alphabetize(arr)
   # code here
   esperanto = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
+  #arr.sort_by{ |item| }
+
   arr.each{ |string|
 
     char_array = string.split("")
